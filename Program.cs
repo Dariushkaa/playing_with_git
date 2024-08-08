@@ -12,11 +12,11 @@ public class Calculator
 
         while (true)
         {
-            Console.Write("Введите первое число (или 'exit' для rrrreeeeetttt): ");
+            Console.Write("Введите first число (или 'exit' для rrrreeeeetttt): ");
             string input1 = Console.ReadLine();
             if (input1.ToLower() == "exit") break;
 
-            Console.Write("Введите второмммммммммммммммммммммммммммммммммммммммммммммммммме число: ");
+            Console.Write("Введите ммммммммммммммммммммммммммммммммммммммммммммммммме число: ");
             string input2 = Console.ReadLine();
 
             Console.Write("Введите операцию (+, -, *, /): ");
