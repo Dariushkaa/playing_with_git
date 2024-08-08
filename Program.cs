@@ -8,15 +8,15 @@ public class Calculator
 
     public void Start()
     {
-        Console.WriteLine("Добро пожаловать в калькулятор!");
+        Console.WriteLine("Help me!");
 
         while (true)
         {
-            Console.Write("Введите первое число (или 'exit' для выхода): ");
+            Console.Write("Введите first число (или 'exit' для rrrreeeeetttt): ");
             string input1 = Console.ReadLine();
             if (input1.ToLower() == "exit") break;
 
-            Console.Write("Введите второе число: ");
+            Console.Write("Введите ммммммммммммммммммммммммммммммммммммммммммммммммме число: ");
             string input2 = Console.ReadLine();
 
             Console.Write("Введите операцию (+, -, *, /): ");
