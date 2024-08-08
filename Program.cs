@@ -1,6 +1,4 @@
-﻿using System;
-
-public class Calculator
+﻿public class Calculator
 {
     public Calculator()
     {
