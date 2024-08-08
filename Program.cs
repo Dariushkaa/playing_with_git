@@ -8,7 +8,7 @@ public class Calculator
 
     public void Start()
     {
-        Console.WriteLine("Добро пожаловать в калькулятор!");
+        Console.WriteLine("Welcome to calcul!");
 
         while (true)
         {
