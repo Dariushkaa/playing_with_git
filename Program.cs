@@ -12,7 +12,7 @@ public class Calculator
 
         while (true)
         {
-            Console.Write("Введите первое число (или 'exit' для выхода): ");
+            Console.Write("Введите первое число (или 'exit' для rrrreeeeetttt): ");
             string input1 = Console.ReadLine();
             if (input1.ToLower() == "exit") break;
 
