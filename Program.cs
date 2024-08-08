@@ -16,7 +16,7 @@ public class Calculator
             string input1 = Console.ReadLine();
             if (input1.ToLower() == "exit") break;
 
-            Console.Write("Введите второе число: ");
+            Console.Write("Secooond latter: ");
             string input2 = Console.ReadLine();
 
             Console.Write("Введите операцию (+, -, *, /): ");
