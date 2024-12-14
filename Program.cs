@@ -1,6 +1,4 @@
-﻿using System;
-
-public class Calculator
+﻿public class Calculator
 {
     public Calculator()
     {
@@ -61,6 +59,7 @@ public class Calculator
         }
 
         Console.WriteLine("Спасибо за использование калькулятора!");
+        Console.WriteLine("Ты лох ебучий");
     }
 }
 public class Program
